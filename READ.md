@@ -14,7 +14,20 @@ git pull
 git push 
 
 #Novos comandos 
+
 git branch
+git clone
+git checkout
+git checkout -b "nome" (criar uma branch)
+(pull request)
+
+
+#cenarios
+
+main - producao
+homolog (homologacao)
+develop (desenvolvimento)
+
 
 
 
