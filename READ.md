@@ -20,7 +20,7 @@ git clone
 git checkout
 git checkout -b "nome" (criar uma branch)
 (pull request)
-
+git merge 
 
 #cenarios
 
